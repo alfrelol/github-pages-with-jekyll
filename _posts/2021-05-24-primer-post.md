@@ -1,10 +1,4 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title: "TÍTULAZO"
+date: 2021-05-24
 ---
-
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it
